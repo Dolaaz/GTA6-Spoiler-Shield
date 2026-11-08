@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="stylesheet" href="ui.css"><title>Shield settings</title></head>
+<body class="options">
+  <main>
+    <header class="brand options-brand"><img src="icons/icon128.png" alt="GTA 6 Spoiler Shield logo"><div><h1>GTA 6 Spoiler Shield</h1><p class="muted">Customize your protection</p></div></header>
+    <h1>Blocked words and phrases</h1>
+    <p class="muted">One word or phrase per line. Add names, mission terms or leak-related phrases you want hidden.</p>
+    <textarea id="terms" rows="16" spellcheck="false"></textarea>
+    <div class="actions"><button id="save">Save settings</button><button id="reset" class="secondary">Restore defaults</button></div>
+    <p id="status" class="status" aria-live="polite"></p>
+    <p class="note">This first version matches visible text. It does not reliably detect spoilers embedded only in images, audio or video frames.</p>
+  </main>
+  <script src="options.js"></script>
+</body></html>
