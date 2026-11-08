@@ -26,3 +26,16 @@ A Chromium browser extension prototype for Chrome and Microsoft Edge.
 
 ## Privacy
 The extension does not send browsing content to a server. Matching happens locally in the browser. Settings are stored using Chrome's synced extension storage.
+## Screenshots
+
+![Screenshot 1](screenshots/1.jpg)
+
+![Screenshot 2](screenshots/untitled.jpg)
+
+![Screenshot 3](screenshots/2.jpg)
+
+![Screenshot 4](screenshots/3.jpg)
+
+![Screenshot 5](screenshots/4.jpg)
+
+![Screenshot 6](screenshots/5.jpg)
