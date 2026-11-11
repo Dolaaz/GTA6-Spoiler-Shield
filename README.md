@@ -26,8 +26,12 @@ A Chromium browser extension prototype for Chrome and Microsoft Edge.
 
 ## Privacy
 The extension does not send browsing content to a server. Matching happens locally in the browser. Settings are stored using Chrome's synced extension storage.
-## Screenshots
 
+## 🎥 Installation Tutorial
+Watch the video tutorial to learn how to install and use GTA 6 Spoiler Shield:
+[![GTA 6 Spoiler Shield Installation Tutorial](https://img.youtube.com/vi/ezRdGp4BKQw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ezRdGp4BKQw)
+
+## Screenshots
 ![Screenshot 1](screenshots/1.jpg)
 
 ![Screenshot 2](screenshots/untitled.jpg)
