@@ -29,6 +29,8 @@ The extension does not send browsing content to a server. Matching happens local
 
 ## 🎥 Installation Tutorial
 Watch the video tutorial to learn how to install and use GTA 6 Spoiler Shield:
+**Click the image below to watch the tutorial on YouTube:**
+
 [![GTA 6 Spoiler Shield Installation Tutorial](https://img.youtube.com/vi/ezRdGp4BKQw/maxresdefault.jpg)](https://www.youtube.com/watch?v=ezRdGp4BKQw)
 
 ## Screenshots
